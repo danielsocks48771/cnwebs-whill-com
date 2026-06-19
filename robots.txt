@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danielsocks48771.github.io/cnwebs-whill-com/sitemap.xml
